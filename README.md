@@ -1,4 +1,5 @@
-<img width="1410" height="2000" alt="eboost-devboard" src="https://github.com/user-attachments/assets/37ba7bf0-d4b3-4691-9536-2492571dc5ce" />
+<img width="1410" height="2000" alt="Copy of ASTRO PET (2)" src="https://github.com/user-attachments/assets/a5b7da23-bc1c-4a3c-9f6f-94539218292f" />
+
 
 # EBOOST-DEVBOARD
 
@@ -24,11 +25,16 @@ after the image has been made the power can be removed without any consequences,
 
 SCHEMATIC
 
-<img width="1373" height="827" alt="schematic" src="https://github.com/user-attachments/assets/b2743fda-9d48-48ca-8ed0-a5fb6128c1d1" />
+<img width="1252" height="757" alt="schematic" src="https://github.com/user-attachments/assets/88dec064-02ce-4e1e-a0d9-89abc34576f7" />
+
 
 THE PCB
 
-<img width="515" height="763" alt="PCB" src="https://github.com/user-attachments/assets/ea9cb4c6-2707-42d1-b142-2a18cfffb51c" />
+
+
+<img width="826" height="768" alt="image (10)" src="https://github.com/user-attachments/assets/1d77783a-59f5-4dee-8483-5cedc89d382c" />
+
+
 
 ## the screen pins
 
